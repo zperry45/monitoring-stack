@@ -17,3 +17,6 @@
 - zfs_exporter: 9134
 - znapzend_exporter: 9101
 
+### Random Notes:
+- To access more info on the containers go to hub.docker.com and search for things like 45drives to find the zfs_exporter
+
